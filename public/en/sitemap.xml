@@ -5,11 +5,6 @@
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/categories/"
                 />
@@ -19,11 +14,6 @@
     <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/"
                 />
@@ -31,21 +21,11 @@
     <loc>http://localhost:1313/posts/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
